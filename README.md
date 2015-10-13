@@ -4,6 +4,12 @@
 
 **Author's Organization:** Damascus High School Academy of Information
 
-### The [Challenge](https://github.com/PIVOT-Project/NMAP-Lab/blob/master/Challenge_Worksheet_for_nmap.docx)
+### The Challenge
 
-Please be sure to fill out our [survey](https://www.surveymonkey.com/r/875Q9MD) afterwards!
+Links to the various challenge files can be found above or an entire copy of this repository can be made using:
+
+```git clone https://github.com/PIVOT-Project/NMAP-Lab```
+
+### Our Survey
+
+Please be sure to fill out our [**SURVEY**](https://www.surveymonkey.com/r/875Q9MD) afterwards!
