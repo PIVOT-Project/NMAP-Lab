@@ -10,6 +10,8 @@ Links to the various challenge files can be found above or an entire copy of thi
 
 ```git clone https://github.com/PIVOT-Project/NMAP-Lab```
 
+[index](index.html)
+
 ### Our Survey
 
 Please be sure to fill out our [**SURVEY**](https://www.surveymonkey.com/r/875Q9MD) afterwards!
