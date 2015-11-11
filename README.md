@@ -10,7 +10,7 @@ Links to the various challenge files can be found above or an entire copy of thi
 
 ```git clone https://github.com/PIVOT-Project/NMAP-Lab```
 
-To watch the video, please clone or download the repository and launch the index.html file. Thank you!
+To watch the video, please clone or download the repository or visit [Introduction to NMAP on Youtube](https://youtu.be/RQ0HjOJgMU4). Thank you!
 
 ### Our Survey
 
